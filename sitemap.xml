@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.thankyouriez.com/index.html</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,80 +19,110 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/assets/in-the-cloud-sample.aif</loc>
-    <lastmod>2018-03-06</lastmod>
+    <loc>http://www.thankyouriez.com/assets/musicplaylist.mulib</loc>
+    <lastmod>2016-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/riez122logo.png</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://www.thankyouriez.com/assets/in-the-cloud-master.wav</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/super-special-master.wav</loc>
+    <lastmod>2018-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/dont-tread-on-me-master.wav</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/master-key-master.wav</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/the-id-master.wav</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/play-me-master.wav</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/gold-mind-master.wav</loc>
+    <lastmod>2018-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/cerulean-city-master.wav</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/bounty-master.wav</loc>
+    <lastmod>2018-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/assets/instumental-cover-file.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/1160x700.gif</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/riez122logo.png</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/789.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/5454.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/6799.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/6789.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/778.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/677i.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/456.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/4556.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/345.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/223.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -103,92 +133,122 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/2.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://www.thankyouriez.com/images/456.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/789125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://www.thankyouriez.com/images/4556.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/5454125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://www.thankyouriez.com/images/345.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/6799125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/6789125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/778125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/677i125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/456125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/4556125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/345125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/223125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/222125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/2125x79.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.thankyouriez.com/images/sitenew.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <loc>http://www.thankyouriez.com/images/223.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/222.jpg</loc>
-    <lastmod>2018-03-16</lastmod>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/2.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/789125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/5454125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/6799125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/6789125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/778125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/677i125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/456125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/4556125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/345125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/223125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/222125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/2125x79.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/sitenew.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/677i.jpg</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

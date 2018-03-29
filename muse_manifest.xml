@@ -1,27 +1,37 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1521221251950">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1522351766696">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="511050835" ref="index"/>
-    <file name="iefonts_index.css" crc="4039126887" ref="index"/>
+    <file name="index.css" crc="4105430589" ref="index"/>
+    <file name="iefonts_index.css" crc="3893488830" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ríez.-(@thankyouriez)--twitter.webarchive" crc="3799961756" seo="true" mt="1520024555000"/>
     <file name="lowkey-riez---home.webarchive" crc="212818999" seo="true" mt="1520024753000"/>
     <file name="lowkey-riez---youtube---youtube.webarchive" crc="3789123545" seo="true" mt="1520024951000"/>
-    <file name="in-the-cloud-sample.aif" crc="4068271565" seo="true" mt="1520361529000"/>
+    <file name="musicplaylist.mulib" crc="3835333726" seo="true" mt="1458142572000"/>
+    <file name="in-the-cloud-master.wav" crc="4053926566" seo="true" mt="1522299448000"/>
+    <file name="super-special-master.wav" crc="3819246498" seo="true" mt="1522257391000"/>
+    <file name="dont-tread-on-me-master.wav" crc="3844802889" seo="true" mt="1522341822000"/>
+    <file name="master-key-master.wav" crc="4266679125" seo="true" mt="1522341131000"/>
+    <file name="the-id-master.wav" crc="3806589528" seo="true" mt="1522296844000"/>
+    <file name="play-me-master.wav" crc="411085364" seo="true" mt="1522299214000"/>
+    <file name="gold-mind-master.wav" crc="4268415508" seo="true" mt="1522263552000"/>
+    <file name="cerulean-city-master.wav" crc="3919991415" seo="true" mt="1522297204000"/>
+    <file name="bounty-master.wav" crc="4149377292" seo="true" mt="1522263292000"/>
+    <file name="instumental-cover-file.jpg" crc="3837067072" seo="true" mt="1522347746000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="163421577" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
     <file name="form_check.php" crc="158155501" ref="index"/>
     <file name="form_throttle.php" crc="3992970984" ref="index"/>
@@ -32,14 +42,14 @@
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="1160x700.gif" crc="4117519623" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="ezgifcom-resize-3.gif" crc="180665257" ref="index"/>
     <file name="u1387-4.png" crc="3983053536" ref="index"/>
     <file name="facebook.png" crc="3937578975" ref="index"/>
     <file name="twitter.png" crc="4078170562" ref="index"/>
     <file name="riez122logo.png" crc="4287081537" seo="true" ref="index"/>
-    <file name="1160x700.gif" crc="4117519623" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="8486953370_42b72e1f4e_h.jpg" crc="4230597191" ref="index"/>
     <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
     <file name="avid-logo_1_3.jpg" crc="449801608" ref="index"/>
@@ -76,5 +86,5 @@
     <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
     <file name="youtube.png" crc="402982861" ref="index"/>
   </folder>
-  <file name="index.html" crc="4031005237" seo="true" mt="1521221133335" redirect="true"/>
+  <file name="index.html" crc="3935557959" seo="true" mt="1522349200204" redirect="true"/>
 </manifest>
