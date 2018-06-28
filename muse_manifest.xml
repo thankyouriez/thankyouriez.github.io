@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1525465770615">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1530209184553">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="4230058269" ref="index"/>
-    <file name="iefonts_index.css" crc="3974906474" ref="index"/>
+    <file name="index.css" crc="4290440175" ref="index"/>
+    <file name="iefonts_index.css" crc="534080719" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="musicplaylist.mulib" crc="3835333726" seo="true" mt="1458142572000"/>
@@ -37,12 +37,18 @@
     <file name="1160x700.gif" crc="4117519623" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u472-8.png" crc="170419734" ref="index"/>
     <file name="8486953370_42b72e1f4e_h.jpg" crc="4230597191" ref="index"/>
     <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
+    <file name="u587-4.png" crc="438107185" ref="index"/>
     <file name="avid-logo_1_3.jpg" crc="449801608" ref="index"/>
+    <file name="u481-4.png" crc="3766522535" ref="index"/>
     <file name="flat,800x800,075,fu10.jpg" crc="3807590356" ref="index"/>
+    <file name="u525-4.png" crc="481626941" ref="index"/>
     <file name="logic-pro-logo.png" crc="3900369379" ref="index"/>
+    <file name="u541-4.png" crc="3766522535" ref="index"/>
     <file name="paramount-studio-a-dec-201656856.jpg" crc="109057286" ref="index"/>
+    <file name="u561-4.png" crc="486341703" ref="index"/>
     <file name="789.jpg" crc="3949797873" seo="true" ref="index"/>
     <file name="5454.jpg" crc="39108223" seo="true" ref="index"/>
     <file name="6799.jpg" crc="314400725" seo="true" ref="index"/>
@@ -67,11 +73,19 @@
     <file name="223125x79.jpg" crc="3949684951" seo="true" ref="index"/>
     <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
     <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
+    <file name="u2373-4.png" crc="418013062" ref="index"/>
     <file name="tumblr_p4m1eagaxa1qlkp52o1_1280.jpg" crc="4146793389" ref="index"/>
+    <file name="u806-8.png" crc="4109656098" ref="index"/>
+    <file name="boxartmelody.png" crc="3952463309" seo="true" ref="index"/>
+    <file name="u1160-4.png" crc="119405017" ref="index"/>
     <file name="sitenew.jpg" crc="38022111" seo="true" ref="index"/>
     <file name="ezgifcom-resize-11.gif" crc="211495120" ref="index"/>
+    <file name="u1201-4.png" crc="14955692" ref="index"/>
+    <file name="u1212-4.png" crc="3981911110" ref="index"/>
     <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
+    <file name="u1219-4.png" crc="355263679" ref="index"/>
     <file name="youtube.png" crc="402982861" ref="index"/>
+    <file name="u1258-4.png" crc="109636496" ref="index"/>
   </folder>
-  <file name="index.html" crc="4175583940" seo="true" mt="1525465725786" redirect="true"/>
+  <file name="index.html" crc="381816455" seo="true" mt="1530209017802" redirect="true"/>
 </manifest>
