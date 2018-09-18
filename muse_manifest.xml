@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537294553547">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537296269305">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="322812950" ref="index"/>
+    <file name="index.css" crc="206741002" ref="index"/>
     <file name="iefonts_index.css" crc="3765621650" ref="index"/>
   </folder>
   <folder name="assets">
@@ -98,24 +98,24 @@
     <file name="223125x79.jpg" crc="3949684951" seo="true" ref="index"/>
     <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
     <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
-    <file name="u2373-4.png" crc="4220058265" ref="index"/>
     <file name="u805-4.png" crc="88531430" ref="index"/>
     <file name="u806-4.png" crc="193894921" ref="index"/>
+    <file name="u2373-4.png" crc="4220058265" ref="index"/>
     <file name="a2809816735_16.jpg" crc="179898363" seo="true" ref="index"/>
-    <file name="u3749-6.png" crc="3855526945" ref="index"/>
+    <file name="u3749-6.png" crc="319012018" ref="index"/>
     <file name="pelicano 95--.jpg" crc="513796263" seo="true" ref="index"/>
     <file name="u3763-6.png" crc="4047194597" ref="index"/>
-    <file name="a0154555140_10.jpg" crc="4282670335" seo="true" ref="index"/>
-    <file name="u3776-6.png" crc="4209228202" ref="index"/>
+    <file name="a0154555140_10.jpg" crc="3960710947" seo="true" ref="index"/>
+    <file name="u3776-6.png" crc="166924312" ref="index"/>
     <file name="a2403941225_16.jpg" crc="3819747530" seo="true" ref="index"/>
     <file name="a1724232096_10.jpg" crc="4282348125" seo="true" ref="index"/>
     <file name="a2204885842_16.jpg" crc="4138743614" seo="true" ref="index"/>
-    <file name="76c89fd36081b98d9c19219cd28de76b.jpg" crc="337659866" seo="true" ref="index"/>
-    <file name="u3826-6.png" crc="41034609" ref="index"/>
-    <file name="u3829-8.png" crc="3938844666" ref="index"/>
-    <file name="u3832-6.png" crc="350187464" ref="index"/>
-    <file name="u3838-6.png" crc="4080074603" ref="index"/>
+    <file name="76c89fd36081b98d9c19219cd28de76b.jpg" crc="3961480939" seo="true" ref="index"/>
     <file name="u3819-4.png" crc="1994162" ref="index"/>
+    <file name="u3826-6.png" crc="41034609" ref="index"/>
+    <file name="u3829-8.png" crc="4166734222" ref="index"/>
+    <file name="u3832-6.png" crc="475832966" ref="index"/>
+    <file name="u3838-6.png" crc="3805917880" ref="index"/>
     <file name="u1159-4.png" crc="507758829" ref="index"/>
     <file name="u1160-4.png" crc="297690119" ref="index"/>
     <file name="sitenew.jpg" crc="38022111" seo="true" ref="index"/>
@@ -140,5 +140,5 @@
     </folder>
     <file name="index.html" crc="3800097981" seo="true" mt="1537294520981" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4038063466" seo="true" mt="1537294521403" redirect="true"/>
+  <file name="index.html" crc="4057240484" seo="true" mt="1537296224150" redirect="true"/>
 </manifest>
