@@ -1,20 +1,21 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537293072960">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537294553547">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="517050711" ref="index"/>
+    <file name="index.css" crc="322812950" ref="index"/>
     <file name="iefonts_index.css" crc="3765621650" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="musicplaylist.mulib" crc="3835333726" seo="true" mt="1458142572000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:index"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
@@ -26,7 +27,6 @@
     <file name="form-u1222.php" crc="502191459" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
     <file name="ezgifcom-resize-3.gif" crc="322655999" seo="true" ref="index"/>
@@ -48,22 +48,22 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u471-4.png" crc="4244697274" ref="index"/>
     <file name="u472-8.png" crc="521632767" ref="index"/>
-    <file name="8486953370_42b72e1f4e_h.jpg" crc="4230597191" ref="index"/>
-    <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
-    <file name="u586-4.png" crc="465977662" ref="index"/>
-    <file name="u587-4.png" crc="511868325" ref="index"/>
     <file name="avid-logo_1_3.jpg" crc="449801608" ref="index"/>
-    <file name="u482-4.png" crc="4126357623" ref="index"/>
     <file name="u481-4.png" crc="425397210" ref="index"/>
+    <file name="u482-4.png" crc="4126357623" ref="index"/>
     <file name="flat,800x800,075,fu10.jpg" crc="3807590356" ref="index"/>
-    <file name="u520-4.png" crc="162123372" ref="index"/>
     <file name="u525-4.png" crc="4051168161" ref="index"/>
+    <file name="u520-4.png" crc="162123372" ref="index"/>
     <file name="logic-pro-logo.png" crc="3900369379" ref="index"/>
     <file name="u532-4.png" crc="214604187" ref="index"/>
     <file name="u541-4.png" crc="4060488263" ref="index"/>
     <file name="paramount-studio-a-dec-201656856.jpg" crc="109057286" ref="index"/>
     <file name="u556-4.png" crc="45107320" ref="index"/>
     <file name="u561-4.png" crc="4088474180" ref="index"/>
+    <file name="8486953370_42b72e1f4e_h.jpg" crc="4230597191" ref="index"/>
+    <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
+    <file name="u586-4.png" crc="465977662" ref="index"/>
+    <file name="u587-4.png" crc="4033288084" ref="index"/>
     <file name="u408-4.png" crc="4138153959" ref="index"/>
     <file name="u462-4.png" crc="4139276199" ref="index"/>
     <file name="u421-4.png" crc="65125176" ref="index"/>
@@ -100,7 +100,7 @@
     <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
     <file name="u2373-4.png" crc="4220058265" ref="index"/>
     <file name="u805-4.png" crc="88531430" ref="index"/>
-    <file name="u806-4.png" crc="388354426" ref="index"/>
+    <file name="u806-4.png" crc="193894921" ref="index"/>
     <file name="a2809816735_16.jpg" crc="179898363" seo="true" ref="index"/>
     <file name="u3749-6.png" crc="3855526945" ref="index"/>
     <file name="pelicano 95--.jpg" crc="513796263" seo="true" ref="index"/>
@@ -134,5 +134,11 @@
     <file name="youtube.png" crc="402982861" ref="index"/>
     <file name="u1258-4.png" crc="3763177657" ref="index"/>
   </folder>
-  <file name="index.html" crc="251265645" seo="true" mt="1537292946468" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="423341814" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3800097981" seo="true" mt="1537294520981" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4038063466" seo="true" mt="1537294521403" redirect="true"/>
 </manifest>
