@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537331150860">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537332140704">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="239643207" ref="index"/>
+    <file name="index.css" crc="4045640478" ref="index"/>
     <file name="iefonts_index.css" crc="3765621650" ref="index"/>
   </folder>
   <folder name="assets">
@@ -39,10 +39,10 @@
     <file name="u1348-4.png" crc="152607844" ref="index"/>
     <file name="u1357-4.png" crc="3902699923" ref="index"/>
     <file name="u1314-4.png" crc="4204065087" ref="index"/>
-    <file name="u1387-4.png" crc="297546254" ref="index"/>
+    <file name="u1387-4.png" crc="411719696" ref="index"/>
     <file name="facebook.png" crc="3937578975" ref="index"/>
     <file name="twitter.png" crc="4078170562" ref="index"/>
-    <file name="riez122logo-u3619.png" crc="12610102" ref="index"/>
+    <file name="riez122logo-u3619.png" crc="137448277" ref="index"/>
     <file name="1160x700.gif" crc="4117519623" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -140,5 +140,5 @@
     </folder>
     <file name="index.html" crc="421799323" seo="true" mt="1537294520981" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4135213759" seo="true" mt="1537331052480" redirect="true"/>
+  <file name="index.html" crc="162035874" seo="true" mt="1537332097620" redirect="true"/>
 </manifest>
