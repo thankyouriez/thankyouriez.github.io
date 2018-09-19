@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537332140704">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537332644168">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="4045640478" ref="index"/>
+    <file name="index.css" crc="4263064365" ref="index"/>
     <file name="iefonts_index.css" crc="3765621650" ref="index"/>
   </folder>
   <folder name="assets">
@@ -140,5 +140,5 @@
     </folder>
     <file name="index.html" crc="421799323" seo="true" mt="1537294520981" redirect="false"/>
   </folder>
-  <file name="index.html" crc="162035874" seo="true" mt="1537332097620" redirect="true"/>
+  <file name="index.html" crc="4004242463" seo="true" mt="1537332617263" redirect="true"/>
 </manifest>
