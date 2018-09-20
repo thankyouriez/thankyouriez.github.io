@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537426057920">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537426625341">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="4130603729" ref="index"/>
+    <file name="index.css" crc="4202360444" ref="index"/>
     <file name="iefonts_index.css" crc="3765621650" ref="index"/>
   </folder>
   <folder name="assets">
@@ -43,7 +43,6 @@
     <file name="paramount-studio-a-dec-201656856.jpg" crc="109057286" ref="index"/>
     <file name="u556-4.png" crc="81989287" ref="index"/>
     <file name="u561-4.png" crc="4064202925" ref="index"/>
-    <file name="ezgifcom-resize-5.gif" crc="3954610509" ref="index"/>
     <file name="ezgifcom-resize-3.gif" crc="322655999" seo="true" ref="index"/>
     <file name="u350-4.png" crc="161988186" ref="index"/>
     <file name="u1320-4.png" crc="185159582" ref="index"/>
@@ -141,5 +140,5 @@
     </folder>
     <file name="index.html" crc="421799323" seo="true" mt="1537294520981" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3822376025" seo="true" mt="1537425777627" redirect="true"/>
+  <file name="index.html" crc="366913709" seo="true" mt="1537426585485" redirect="true"/>
 </manifest>
