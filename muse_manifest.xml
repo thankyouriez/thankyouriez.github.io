@@ -1,9 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537426625341">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537511172958">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4130229466" ref="index"/>
-    <file name="index.css" crc="4202360444" ref="index"/>
-    <file name="iefonts_index.css" crc="3765621650" ref="index"/>
+    <file name="index.css" crc="320880655" ref="index"/>
+    <file name="iefonts_index.css" crc="4092886847" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="musicplaylist.mulib" crc="3835333726" seo="true" mt="1458142572000"/>
@@ -44,7 +43,7 @@
     <file name="u556-4.png" crc="81989287" ref="index"/>
     <file name="u561-4.png" crc="4064202925" ref="index"/>
     <file name="ezgifcom-resize-3.gif" crc="322655999" seo="true" ref="index"/>
-    <file name="u350-4.png" crc="161988186" ref="index"/>
+    <file name="u350-4.png" crc="526006928" ref="index"/>
     <file name="u1320-4.png" crc="185159582" ref="index"/>
     <file name="u1376-4.png" crc="4239054023" ref="index"/>
     <file name="u1341-4.png" crc="192561219" ref="index"/>
@@ -57,10 +56,7 @@
     <file name="facebook.png" crc="3937578975" ref="index"/>
     <file name="twitter.png" crc="4078170562" ref="index"/>
     <file name="riez122logo-u3619.png" crc="192096862" ref="index"/>
-    <file name="1160x700.gif" crc="4117519623" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u408-4.png" crc="4138153959" ref="index"/>
+    <file name="u408-4.png" crc="195491012" ref="index"/>
     <file name="u462-4.png" crc="4139276199" ref="index"/>
     <file name="u421-4.png" crc="65125176" ref="index"/>
     <file name="u456-4.png" crc="439391643" ref="index"/>
@@ -71,9 +67,10 @@
     <file name="u1305-4.png" crc="4186461397" ref="index"/>
     <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
     <file name="u586-4.png" crc="401614861" ref="index"/>
-    <file name="u587-4.png" crc="3779322821" ref="index"/>
+    <file name="u587-4.png" crc="88767779" ref="index"/>
     <file name="u613-4.png" crc="4185399638" ref="index"/>
     <file name="789.jpg" crc="3949797873" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="5454.jpg" crc="39108223" seo="true" ref="index"/>
     <file name="6799.jpg" crc="314400725" seo="true" ref="index"/>
     <file name="6789.jpg" crc="153757881" seo="true" ref="index"/>
@@ -97,10 +94,11 @@
     <file name="223125x79.jpg" crc="3949684951" seo="true" ref="index"/>
     <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
     <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
-    <file name="u2373-4.png" crc="131051137" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2373-4.png" crc="466797892" ref="index"/>
     <file name="8486953370_42b72e1f4e_h.jpg" crc="4230597191" ref="index"/>
     <file name="u805-4.png" crc="88531430" ref="index"/>
-    <file name="u806-4.png" crc="4041725727" ref="index"/>
+    <file name="u806-4.png" crc="3784554660" ref="index"/>
     <file name="a2809816735_16.jpg" crc="53928037" seo="true" ref="index"/>
     <file name="u3749-6.png" crc="383300522" ref="index"/>
     <file name="pelicano 95--.jpg" crc="144165286" seo="true" ref="index"/>
@@ -123,7 +121,7 @@
     <file name="u1200-4.png" crc="171395911" ref="index"/>
     <file name="u1201-4.png" crc="367226146" ref="index"/>
     <file name="u1211-4.png" crc="469381666" ref="index"/>
-    <file name="u1212-4.png" crc="211813313" ref="index"/>
+    <file name="u1212-4.png" crc="350511375" ref="index"/>
     <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
     <file name="u1218-4.png" crc="3965848316" ref="index"/>
     <file name="u1219-4.png" crc="3945706319" ref="index"/>
@@ -133,6 +131,7 @@
     <file name="u1234-fs.png" crc="185992747" ref="index"/>
     <file name="youtube.png" crc="402982861" ref="index"/>
     <file name="u1258-4.png" crc="3763177657" ref="index"/>
+    <file name="ezgifcom-resize-5.gif" crc="3954610509" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -140,5 +139,5 @@
     </folder>
     <file name="index.html" crc="421799323" seo="true" mt="1537294520981" redirect="false"/>
   </folder>
-  <file name="index.html" crc="366913709" seo="true" mt="1537426585485" redirect="true"/>
+  <file name="index.html" crc="330450762" seo="true" mt="1537511040865" redirect="true"/>
 </manifest>
