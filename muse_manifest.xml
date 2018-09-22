@@ -1,14 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thankyouriez.com" resolutions="1x" timestamp="1537593900459">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="394670957" ref="tablet>index"/>
-      <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="4126791464" seo="true" mt="1537593883346" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thankyouriez.com" resolutions="1x" timestamp="1537643003559">
   <folder name="css">
-    <file name="site_global.css" crc="3854697975"/>
-    <file name="index.css" crc="4229117927" ref="index"/>
+    <file name="site_global.css" crc="4079240678"/>
+    <file name="index.css" crc="394019043" ref="index"/>
     <file name="iefonts_index.css" crc="4200597603" ref="index"/>
   </folder>
   <folder name="assets">
@@ -26,71 +19,30 @@
     </folder>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:tablet>index"/>
-    <file name="museutils.js" crc="163421577" ref="phone>index:index:tablet>index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index:tablet>index"/>
-    <file name="museconfig.js" crc="36584860" ref="phone>index:index:tablet>index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index:tablet>index"/>
-    <file name="require.js" crc="244322403" ref="phone>index:index:tablet>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:phone>index:tablet>index"/>
-    <file name="webpro.js" crc="3848665353" ref="index:phone>index:tablet>index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index:phone>index:tablet>index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index:phone>index:tablet>index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index:phone>index:tablet>index"/>
-    <file name="form_check.php" crc="158155501" ref="phone>index"/>
-    <file name="form_throttle.php" crc="3992970984" ref="phone>index"/>
-    <file name="form_process.php" crc="4078697226" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:phone>index:tablet>index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:tablet>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="404375771" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="158155501" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="phone>index:index"/>
+    <file name="form_process.php" crc="4078697226" ref="phone>index:index"/>
     <file name="form-u2465.php" crc="229105262" ref="phone>index"/>
     <file name="form-u2824.php" crc="3910617976" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:tablet>index:index"/>
     <file name="form-u1785.php" crc="3798476141" ref="tablet>index"/>
     <file name="form-u2113.php" crc="63579301" ref="tablet>index"/>
     <file name="form-u5539.php" crc="437308739" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="avid-logo_1_3.jpg" crc="449801608" ref="index"/>
-    <file name="flat,800x800,075,fu10.jpg" crc="3807590356" ref="index"/>
-    <file name="logic-pro-logo.png" crc="3900369379" ref="index"/>
-    <file name="paramount-studio-a-dec-201656856.jpg" crc="109057286" ref="index"/>
-    <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
-    <file name="789.jpg" crc="3949797873" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="5454.jpg" crc="39108223" seo="true" ref="index"/>
-    <file name="6799.jpg" crc="314400725" seo="true" ref="index"/>
-    <file name="6789.jpg" crc="153757881" seo="true" ref="index"/>
-    <file name="778.jpg" crc="4192692203" seo="true" ref="index"/>
-    <file name="677i.jpg" crc="4106438338" seo="true" ref="index"/>
-    <file name="456.jpg" crc="21344614" seo="true" ref="index"/>
-    <file name="4556.jpg" crc="297979849" seo="true" ref="index"/>
-    <file name="345.jpg" crc="3907241430" seo="true" ref="index"/>
-    <file name="223.jpg" crc="131046207" seo="true" ref="index"/>
-    <file name="222.jpg" crc="36323311" seo="true" ref="index"/>
-    <file name="2.jpg" crc="518981378" seo="true" ref="index"/>
-    <file name="789125x79.jpg" crc="4179778429" seo="true" ref="index"/>
-    <file name="5454125x79.jpg" crc="340634267" seo="true" ref="index"/>
-    <file name="6799125x79.jpg" crc="4252357141" seo="true" ref="index"/>
-    <file name="6789125x79.jpg" crc="4253276900" seo="true" ref="index"/>
-    <file name="778125x79.jpg" crc="3793403635" seo="true" ref="index"/>
-    <file name="677i125x79.jpg" crc="4169474861" seo="true" ref="index"/>
-    <file name="456125x79.jpg" crc="3763461018" seo="true" ref="index"/>
-    <file name="4556125x79.jpg" crc="4023041824" seo="true" ref="index"/>
-    <file name="345125x79.jpg" crc="4164901190" seo="true" ref="index"/>
-    <file name="223125x79.jpg" crc="3949684951" seo="true" ref="index"/>
-    <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
-    <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="a2809816735_16.jpg" crc="53928037" seo="true" ref="index"/>
-    <file name="pelicano 95--.jpg" crc="144165286" seo="true" ref="index"/>
-    <file name="a0154555140_10.jpg" crc="3819733867" seo="true" ref="index"/>
-    <file name="a2403941225_16.jpg" crc="4027477844" seo="true" ref="index"/>
-    <file name="a1724232096_10.jpg" crc="64253568" seo="true" ref="index"/>
-    <file name="a2204885842_16.jpg" crc="230607616" seo="true" ref="index"/>
-    <file name="76c89fd36081b98d9c19219cd28de76b.jpg" crc="3993587164" seo="true" ref="index"/>
-    <file name="sitenew.jpg" crc="38022111" seo="true" ref="index"/>
-    <file name="ezgifcom-resize-11.gif" crc="211495120" ref="index"/>
-    <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
     <file name="a-master-favicon.ico" crc="4228618289" ref="phone>index"/>
     <file name="stripe_pattern.png" crc="4000199862" ref="phone>index:tablet>index:index"/>
     <file name="logo.png" crc="330588655" ref="phone>index:tablet>index:index"/>
@@ -133,6 +85,10 @@
     <file name="baky.jpg" crc="4277736592" ref="index"/>
     <file name="riez122logo-u4947.png" crc="3865538471" ref="index"/>
     <file name="u4995-8.png" crc="4046388442" ref="index"/>
+    <file name="avid-logo_1_3.jpg" crc="449801608" ref="index"/>
+    <file name="logic-pro-logo.png" crc="3900369379" ref="index"/>
+    <file name="flat,800x800,075,fu10.jpg" crc="3807590356" ref="index"/>
+    <file name="paramount-studio-a-dec-201656856.jpg" crc="109057286" ref="index"/>
     <file name="u5000-4.png" crc="60888665" ref="index"/>
     <file name="u4999-4.png" crc="3991363707" ref="index"/>
     <file name="u5005-4.png" crc="4058530868" ref="index"/>
@@ -141,8 +97,10 @@
     <file name="u5003-4.png" crc="3950256645" ref="index"/>
     <file name="u5009-4.png" crc="4284923179" ref="index"/>
     <file name="u5008-4.png" crc="508535462" ref="index"/>
+    <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
     <file name="u5077-4.png" crc="26848511" ref="index"/>
     <file name="u5078-4.png" crc="88767779" ref="index"/>
+    <file name="ezgifcom-resize-11.gif" crc="211495120" ref="index"/>
     <file name="u5397-4.png" crc="171395911" ref="index"/>
     <file name="u5398-4.png" crc="367226146" ref="index"/>
     <file name="u5778-4.png" crc="4117445546" ref="index"/>
@@ -151,16 +109,51 @@
     <file name="u5783-6.png" crc="3883231690" ref="index"/>
     <file name="u5788-6.png" crc="4165682625" ref="index"/>
     <file name="u5789-6.png" crc="3814718856" ref="index"/>
+    <file name="a2809816735_16.jpg" crc="53928037" seo="true" ref="index"/>
+    <file name="pelicano 95--.jpg" crc="144165286" seo="true" ref="index"/>
+    <file name="a1724232096_10.jpg" crc="64253568" seo="true" ref="index"/>
+    <file name="a0154555140_10.jpg" crc="3819733867" seo="true" ref="index"/>
     <file name="u5800-6.png" crc="335594278" ref="index"/>
     <file name="u5795-6.png" crc="82998719" ref="index"/>
     <file name="u5794-8.png" crc="4075652835" ref="index"/>
+    <file name="a2403941225_16.jpg" crc="4027477844" seo="true" ref="index"/>
+    <file name="76c89fd36081b98d9c19219cd28de76b.jpg" crc="3993587164" seo="true" ref="index"/>
+    <file name="a2204885842_16.jpg" crc="230607616" seo="true" ref="index"/>
     <file name="u5801-4.png" crc="102802826" ref="index"/>
     <file name="u5120-4.png" crc="330975214" ref="index"/>
     <file name="u5121-4.png" crc="466797892" ref="index"/>
+    <file name="789.jpg" crc="3949797873" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="5454.jpg" crc="39108223" seo="true" ref="index"/>
+    <file name="6799.jpg" crc="314400725" seo="true" ref="index"/>
+    <file name="6789.jpg" crc="153757881" seo="true" ref="index"/>
+    <file name="778.jpg" crc="4192692203" seo="true" ref="index"/>
+    <file name="677i.jpg" crc="4106438338" seo="true" ref="index"/>
+    <file name="456.jpg" crc="21344614" seo="true" ref="index"/>
+    <file name="4556.jpg" crc="297979849" seo="true" ref="index"/>
+    <file name="345.jpg" crc="3907241430" seo="true" ref="index"/>
+    <file name="223.jpg" crc="131046207" seo="true" ref="index"/>
+    <file name="222.jpg" crc="36323311" seo="true" ref="index"/>
+    <file name="2.jpg" crc="518981378" seo="true" ref="index"/>
+    <file name="789125x79.jpg" crc="4179778429" seo="true" ref="index"/>
+    <file name="5454125x79.jpg" crc="340634267" seo="true" ref="index"/>
+    <file name="6799125x79.jpg" crc="4252357141" seo="true" ref="index"/>
+    <file name="6789125x79.jpg" crc="4253276900" seo="true" ref="index"/>
+    <file name="778125x79.jpg" crc="3793403635" seo="true" ref="index"/>
+    <file name="677i125x79.jpg" crc="4169474861" seo="true" ref="index"/>
+    <file name="456125x79.jpg" crc="3763461018" seo="true" ref="index"/>
+    <file name="4556125x79.jpg" crc="4023041824" seo="true" ref="index"/>
+    <file name="345125x79.jpg" crc="4164901190" seo="true" ref="index"/>
+    <file name="223125x79.jpg" crc="3949684951" seo="true" ref="index"/>
+    <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
+    <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u5623-4.png" crc="358893955" ref="index"/>
     <file name="u5624-4.png" crc="4113490059" ref="index"/>
     <file name="u5104-4.png" crc="413404154" ref="index"/>
+    <file name="sitenew.jpg" crc="38022111" seo="true" ref="index"/>
     <file name="u5105-5.png" crc="357915296" ref="index"/>
+    <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
     <file name="stripe_pattern-u996-fr.png" crc="4262286213" ref="index"/>
     <file name="u5556-4.png" crc="3965848316" ref="index"/>
     <file name="u5557-4.png" crc="3945706319" ref="index"/>
@@ -171,6 +164,13 @@
     <file name="u1150-4.png" crc="3814899837" ref="index"/>
     <file name="u5913-4.png" crc="4226247269" ref="index"/>
   </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="394670957" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4126791464" seo="true" mt="1537593883346" redirect="true"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="324164365" ref="phone>index"/>
@@ -178,5 +178,5 @@
     </folder>
     <file name="index.html" crc="271767481" seo="true" mt="1537564788187" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3776346542" seo="true" mt="1537593883340" redirect="true"/>
+  <file name="index.html" crc="3512936" seo="true" mt="1537642856630" redirect="true"/>
 </manifest>
