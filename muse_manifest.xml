@@ -1,74 +1,60 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537511172958">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="thankyouriez.com" resolutions="1x" timestamp="1537593900459">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="394670957" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4126791464" seo="true" mt="1537593883346" redirect="true"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="320880655" ref="index"/>
-    <file name="iefonts_index.css" crc="4092886847" ref="index"/>
+    <file name="site_global.css" crc="3854697975"/>
+    <file name="index.css" crc="4229117927" ref="index"/>
+    <file name="iefonts_index.css" crc="4200597603" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="musicplaylist.mulib" crc="3835333726" seo="true" mt="1458142572000"/>
+    <folder name="logo_animation">
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1422026062000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="471228943" mt="1422026062000"/>
+        <file name="logo.png" crc="3999777500" mt="1422026062000"/>
+        <file name="Poster.png" crc="471228943" mt="1422026062000"/>
+      </folder>
+      <file name="logo_animation_edge.js" crc="3962999853" mt="1422026062000"/>
+      <file name="logo_animation.html" crc="408629250" mt="1422026062000"/>
+    </folder>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="163421577" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="36584860" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index"/>
-    <file name="require.js" crc="244322403" ref="phone>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="form_check.php" crc="158155501" ref="index"/>
-    <file name="form_throttle.php" crc="3992970984" ref="index"/>
-    <file name="form_process.php" crc="4078697226" ref="index"/>
-    <file name="form-u1222.php" crc="502191459" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:tablet>index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:tablet>index"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:index:tablet>index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index:tablet>index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:phone>index:tablet>index"/>
+    <file name="webpro.js" crc="3848665353" ref="index:phone>index:tablet>index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:phone>index:tablet>index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:phone>index:tablet>index"/>
+    <file name="form_check.php" crc="158155501" ref="phone>index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="phone>index"/>
+    <file name="form_process.php" crc="4078697226" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:phone>index:tablet>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index:tablet>index"/>
+    <file name="form-u2465.php" crc="229105262" ref="phone>index"/>
+    <file name="form-u2824.php" crc="3910617976" ref="phone>index"/>
+    <file name="form-u1785.php" crc="3798476141" ref="tablet>index"/>
+    <file name="form-u2113.php" crc="63579301" ref="tablet>index"/>
+    <file name="form-u5539.php" crc="437308739" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u471-4.png" crc="3913117682" ref="index"/>
-    <file name="u472-8.png" crc="509262467" ref="index"/>
     <file name="avid-logo_1_3.jpg" crc="449801608" ref="index"/>
-    <file name="u481-4.png" crc="202857331" ref="index"/>
-    <file name="u482-4.png" crc="218851558" ref="index"/>
     <file name="flat,800x800,075,fu10.jpg" crc="3807590356" ref="index"/>
-    <file name="u525-4.png" crc="3788860775" ref="index"/>
-    <file name="u520-4.png" crc="462478869" ref="index"/>
     <file name="logic-pro-logo.png" crc="3900369379" ref="index"/>
-    <file name="u532-4.png" crc="310194841" ref="index"/>
-    <file name="u541-4.png" crc="77578264" ref="index"/>
     <file name="paramount-studio-a-dec-201656856.jpg" crc="109057286" ref="index"/>
-    <file name="u556-4.png" crc="81989287" ref="index"/>
-    <file name="u561-4.png" crc="4064202925" ref="index"/>
-    <file name="ezgifcom-resize-3.gif" crc="322655999" seo="true" ref="index"/>
-    <file name="u350-4.png" crc="526006928" ref="index"/>
-    <file name="u1320-4.png" crc="185159582" ref="index"/>
-    <file name="u1376-4.png" crc="4239054023" ref="index"/>
-    <file name="u1341-4.png" crc="192561219" ref="index"/>
-    <file name="u1334-4.png" crc="60853614" ref="index"/>
-    <file name="u1327-4.png" crc="4043638618" ref="index"/>
-    <file name="u1348-4.png" crc="152607844" ref="index"/>
-    <file name="u1357-4.png" crc="3902699923" ref="index"/>
-    <file name="u1314-4.png" crc="4204065087" ref="index"/>
-    <file name="u1387-4.png" crc="411719696" ref="index"/>
-    <file name="facebook.png" crc="3937578975" ref="index"/>
-    <file name="twitter.png" crc="4078170562" ref="index"/>
-    <file name="riez122logo-u3619.png" crc="192096862" ref="index"/>
-    <file name="u408-4.png" crc="195491012" ref="index"/>
-    <file name="u462-4.png" crc="4139276199" ref="index"/>
-    <file name="u421-4.png" crc="65125176" ref="index"/>
-    <file name="u456-4.png" crc="439391643" ref="index"/>
-    <file name="u450-4.png" crc="4092156392" ref="index"/>
-    <file name="u427-4.png" crc="114470346" ref="index"/>
-    <file name="u414-4.png" crc="4226309890" ref="index"/>
-    <file name="u1297-4.png" crc="3807827631" ref="index"/>
-    <file name="u1305-4.png" crc="4186461397" ref="index"/>
     <file name="ezgifcom-resize-10.gif" crc="73485870" ref="index"/>
-    <file name="u586-4.png" crc="401614861" ref="index"/>
-    <file name="u587-4.png" crc="88767779" ref="index"/>
-    <file name="u613-4.png" crc="4185399638" ref="index"/>
     <file name="789.jpg" crc="3949797873" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="5454.jpg" crc="39108223" seo="true" ref="index"/>
@@ -95,49 +81,102 @@
     <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
     <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u2373-4.png" crc="466797892" ref="index"/>
-    <file name="8486953370_42b72e1f4e_h.jpg" crc="4230597191" ref="index"/>
-    <file name="u805-4.png" crc="88531430" ref="index"/>
-    <file name="u806-4.png" crc="3784554660" ref="index"/>
     <file name="a2809816735_16.jpg" crc="53928037" seo="true" ref="index"/>
-    <file name="u3749-6.png" crc="383300522" ref="index"/>
     <file name="pelicano 95--.jpg" crc="144165286" seo="true" ref="index"/>
-    <file name="u3763-6.png" crc="42768651" ref="index"/>
     <file name="a0154555140_10.jpg" crc="3819733867" seo="true" ref="index"/>
-    <file name="u3776-6.png" crc="3911561053" ref="index"/>
     <file name="a2403941225_16.jpg" crc="4027477844" seo="true" ref="index"/>
     <file name="a1724232096_10.jpg" crc="64253568" seo="true" ref="index"/>
     <file name="a2204885842_16.jpg" crc="230607616" seo="true" ref="index"/>
     <file name="76c89fd36081b98d9c19219cd28de76b.jpg" crc="3993587164" seo="true" ref="index"/>
-    <file name="u3819-4.png" crc="3779285910" ref="index"/>
-    <file name="u3826-6.png" crc="4149327689" ref="index"/>
-    <file name="u3829-8.png" crc="4045961341" ref="index"/>
-    <file name="u3832-6.png" crc="440642293" ref="index"/>
-    <file name="u3838-6.png" crc="186486986" ref="index"/>
-    <file name="u1159-4.png" crc="507758829" ref="index"/>
-    <file name="u1160-4.png" crc="297690119" ref="index"/>
     <file name="sitenew.jpg" crc="38022111" seo="true" ref="index"/>
     <file name="ezgifcom-resize-11.gif" crc="211495120" ref="index"/>
-    <file name="u1200-4.png" crc="171395911" ref="index"/>
-    <file name="u1201-4.png" crc="367226146" ref="index"/>
-    <file name="u1211-4.png" crc="469381666" ref="index"/>
-    <file name="u1212-4.png" crc="350511375" ref="index"/>
     <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
-    <file name="u1218-4.png" crc="3965848316" ref="index"/>
-    <file name="u1219-4.png" crc="3945706319" ref="index"/>
-    <file name="u1234.png" crc="352778660" ref="index"/>
-    <file name="u1234-r.png" crc="249194850" ref="index"/>
-    <file name="u1234-m.png" crc="132832913" ref="index"/>
-    <file name="u1234-fs.png" crc="185992747" ref="index"/>
-    <file name="youtube.png" crc="402982861" ref="index"/>
-    <file name="u1258-4.png" crc="3763177657" ref="index"/>
-    <file name="ezgifcom-resize-5.gif" crc="3954610509" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4228618289" ref="phone>index"/>
+    <file name="stripe_pattern.png" crc="4000199862" ref="phone>index:tablet>index:index"/>
+    <file name="logo.png" crc="330588655" ref="phone>index:tablet>index:index"/>
+    <file name="home_background.jpg" crc="408795766" ref="phone>index:tablet>index"/>
+    <file name="tablet_menu_01.png" crc="4012056727" ref="phone>index:tablet>index"/>
+    <file name="tablet_menu_02.png" crc="315670871" ref="phone>index:tablet>index"/>
+    <file name="trigger_normal.png" crc="4021409638" ref="phone>index:tablet>index"/>
+    <file name="trigger_rollover.png" crc="4232975380" ref="phone>index:tablet>index"/>
+    <file name="big_photo_placeholder-u2444-fr.jpg" crc="64595779" ref="phone>index"/>
+    <file name="big_photo_placeholder-u2493-fr.jpg" crc="438029112" ref="phone>index"/>
+    <file name="thumb_photo_placeholder.jpg" crc="3985048904" ref="phone>index:tablet>index"/>
+    <file name="home_background-u2722-fr.jpg" crc="4051400024" ref="phone>index"/>
+    <file name="icon_fb_01.png" crc="281675601" ref="phone>index:tablet>index:index"/>
+    <file name="icon_fb_02.png" crc="3908246663" ref="phone>index:tablet>index:index"/>
+    <file name="icon_g_01.png" crc="407771021" ref="phone>index:tablet>index"/>
+    <file name="icon_g_02.png" crc="3992621336" ref="phone>index:tablet>index"/>
+    <file name="icon_tw_01.png" crc="4052788479" ref="phone>index:tablet>index:index"/>
+    <file name="icon_tw_02.png" crc="414328691" ref="phone>index:tablet>index:index"/>
+    <file name="icon_i_01.png" crc="528723403" ref="phone>index:tablet>index:index"/>
+    <file name="icon_i_02.png" crc="3932289192" ref="phone>index:tablet>index:index"/>
+    <file name="icon_mx_01.png" crc="331746781" ref="phone>index:tablet>index"/>
+    <file name="icon_mx_02.png" crc="4053075016" ref="phone>index:tablet>index"/>
+    <file name="icon_s_01.png" crc="531649251" ref="phone>index:tablet>index:index"/>
+    <file name="icon_s_02.png" crc="305102810" ref="phone>index:tablet>index:index"/>
+    <file name="about_background.jpg" crc="4253942929" ref="tablet>index"/>
+    <file name="half_pattern_01.png" crc="180170125" ref="tablet>index:index"/>
+    <file name="big_photo_placeholder-u1760-fr.jpg" crc="3923608061" ref="tablet>index"/>
+    <file name="close_button.png" crc="370163849" ref="tablet>index"/>
+    <file name="home_background-u1828-fr.jpg" crc="4136596320" ref="tablet>index"/>
+    <file name="big_photo_placeholder-u1845-fr.jpg" crc="210492489" ref="tablet>index"/>
+    <file name="thumb_photo_placeholder-u1975-r-fr.png" crc="4236339970" ref="tablet>index"/>
+    <file name="big_photo_placeholder.jpg" crc="286085375" ref="tablet>index"/>
+    <file name="close_button-u1971-r-fr.png" crc="4144172247" ref="tablet>index"/>
+    <file name="big_photo_placeholder-u2008-r-fr.png" crc="4021942928" ref="tablet>index"/>
+    <file name="home-favicon.ico" crc="4228618289" ref="index"/>
+    <file name="menu_normal.png" crc="4047380175" ref="index"/>
+    <file name="u93-4.png" crc="3967531834" ref="index"/>
+    <file name="u96-4.png" crc="4062612706" ref="index"/>
+    <file name="scroll_down.png" crc="378183208" ref="index"/>
+    <file name="baky.jpg" crc="4277736592" ref="index"/>
+    <file name="riez122logo-u4947.png" crc="3865538471" ref="index"/>
+    <file name="u4995-8.png" crc="4046388442" ref="index"/>
+    <file name="u5000-4.png" crc="60888665" ref="index"/>
+    <file name="u4999-4.png" crc="3991363707" ref="index"/>
+    <file name="u5005-4.png" crc="4058530868" ref="index"/>
+    <file name="u5006-5.png" crc="416248003" ref="index"/>
+    <file name="u5002-4.png" crc="3828931541" ref="index"/>
+    <file name="u5003-4.png" crc="3950256645" ref="index"/>
+    <file name="u5009-4.png" crc="4284923179" ref="index"/>
+    <file name="u5008-4.png" crc="508535462" ref="index"/>
+    <file name="u5077-4.png" crc="26848511" ref="index"/>
+    <file name="u5078-4.png" crc="88767779" ref="index"/>
+    <file name="u5397-4.png" crc="171395911" ref="index"/>
+    <file name="u5398-4.png" crc="367226146" ref="index"/>
+    <file name="u5778-4.png" crc="4117445546" ref="index"/>
+    <file name="u5779-4.png" crc="436586961" ref="index"/>
+    <file name="u5782-6.png" crc="41272523" ref="index"/>
+    <file name="u5783-6.png" crc="3883231690" ref="index"/>
+    <file name="u5788-6.png" crc="4165682625" ref="index"/>
+    <file name="u5789-6.png" crc="3814718856" ref="index"/>
+    <file name="u5800-6.png" crc="335594278" ref="index"/>
+    <file name="u5795-6.png" crc="82998719" ref="index"/>
+    <file name="u5794-8.png" crc="4075652835" ref="index"/>
+    <file name="u5801-4.png" crc="102802826" ref="index"/>
+    <file name="u5120-4.png" crc="330975214" ref="index"/>
+    <file name="u5121-4.png" crc="466797892" ref="index"/>
+    <file name="u5623-4.png" crc="358893955" ref="index"/>
+    <file name="u5624-4.png" crc="4113490059" ref="index"/>
+    <file name="u5104-4.png" crc="413404154" ref="index"/>
+    <file name="u5105-5.png" crc="357915296" ref="index"/>
+    <file name="stripe_pattern-u996-fr.png" crc="4262286213" ref="index"/>
+    <file name="u5556-4.png" crc="3965848316" ref="index"/>
+    <file name="u5557-4.png" crc="3945706319" ref="index"/>
+    <file name="u5554.png" crc="372361107" ref="index"/>
+    <file name="u5554-r.png" crc="4250216931" ref="index"/>
+    <file name="u5554-m.png" crc="4183876972" ref="index"/>
+    <file name="u5554-fs.png" crc="3958801006" ref="index"/>
+    <file name="u1150-4.png" crc="3814899837" ref="index"/>
+    <file name="u5913-4.png" crc="4226247269" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="423341814" ref="phone>index"/>
+      <file name="index.css" crc="324164365" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="11740403" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="421799323" seo="true" mt="1537294520981" redirect="false"/>
+    <file name="index.html" crc="271767481" seo="true" mt="1537564788187" redirect="true"/>
   </folder>
-  <file name="index.html" crc="330450762" seo="true" mt="1537511040865" redirect="true"/>
+  <file name="index.html" crc="3776346542" seo="true" mt="1537593883340" redirect="true"/>
 </manifest>
