@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537689638478">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537690573376">
   <folder name="css">
     <file name="site_global.css" crc="4079240678"/>
-    <file name="index.css" crc="416420306" ref="index"/>
+    <file name="index.css" crc="4022844882" ref="index"/>
     <file name="iefonts_index.css" crc="66924647" ref="index"/>
   </folder>
   <folder name="assets">
@@ -23,28 +23,26 @@
     <file name="museutils.js" crc="163421577" ref="phone>index:tablet>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
     <file name="museconfig.js" crc="36584860" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="3848665353" ref="phone>index:tablet>index:index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:tablet>index:index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:tablet>index:index"/>
     <file name="touchswipe.js" crc="404375771" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="phone>index:tablet>index:index"/>
     <file name="form_check.php" crc="158155501" ref="phone>index"/>
     <file name="form_throttle.php" crc="3992970984" ref="phone>index"/>
     <file name="form_process.php" crc="4078697226" ref="phone>index"/>
-    <file name="form-u7832.php" crc="3951613925" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="phone>index:tablet>index:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="form-u7832.php" crc="4140583093" ref="phone>index"/>
     <file name="require.js" crc="244322403" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="tablet>index:index"/>
     <file name="form-u1785.php" crc="3798476141" ref="tablet>index"/>
     <file name="form-u2113.php" crc="63579301" ref="tablet>index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:index"/>
     <file name="form-u5539.php" crc="437308739" ref="index"/>
   </folder>
   <folder name="images">
     <file name="ezgifcom-resize-3.gif" crc="322655999" ref="phone>index:index"/>
-    <file name="tablet_menu_01.png" crc="4012056727" ref="phone>index:tablet>index"/>
-    <file name="tablet_menu_02.png" crc="315670871" ref="phone>index:tablet>index"/>
     <file name="u2355-4.png" crc="3813966114" ref="phone>index"/>
     <file name="u2356-4.png" crc="320399550" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
@@ -147,6 +145,8 @@
     <file name="u7892-4.png" crc="3811274652" ref="phone>index"/>
     <file name="a-master-favicon.ico" crc="4228618289" ref="tablet>index"/>
     <file name="home_background.jpg" crc="408795766" ref="tablet>index"/>
+    <file name="tablet_menu_01.png" crc="4012056727" ref="tablet>index"/>
+    <file name="tablet_menu_02.png" crc="315670871" ref="tablet>index"/>
     <file name="about_background.jpg" crc="4253942929" ref="tablet>index"/>
     <file name="half_pattern_01.png" crc="180170125" ref="tablet>index:index"/>
     <file name="big_photo_placeholder-u1760-fr.jpg" crc="3923608061" ref="tablet>index"/>
@@ -226,14 +226,14 @@
     <file name="223125x79.jpg" crc="3949684951" seo="true" ref="index"/>
     <file name="222125x79.jpg" crc="334907143" seo="true" ref="index"/>
     <file name="2125x79.jpg" crc="512630089" seo="true" ref="index"/>
-    <file name="u5623-4.png" crc="358893955" ref="index"/>
+    <file name="u5623-4.png" crc="435710103" ref="index"/>
     <file name="u5624-4.png" crc="4113490059" ref="index"/>
     <file name="u5104-4.png" crc="413404154" ref="index"/>
     <file name="sitenew.jpg" crc="38022111" seo="true" ref="index"/>
     <file name="u5105-5.png" crc="357915296" ref="index"/>
     <file name="ezgifcom-resize-7.gif" crc="4100876376" ref="index"/>
     <file name="stripe_pattern-u996-fr.png" crc="4262286213" ref="index"/>
-    <file name="u5556-4.png" crc="3965848316" ref="index"/>
+    <file name="u5556-4.png" crc="117705998" ref="index"/>
     <file name="u5557-4.png" crc="3945706319" ref="index"/>
     <file name="u5554.png" crc="372361107" ref="index"/>
     <file name="u5554-r.png" crc="4250216931" ref="index"/>
@@ -244,17 +244,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="198468073" ref="tablet>index"/>
+      <file name="index.css" crc="198240426" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="63821896" seo="true" mt="1537593883346" redirect="true"/>
+    <file name="index.html" crc="3466275" seo="true" mt="1537593883346" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4141264718" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="4149640597" ref="phone>index"/>
+      <file name="index.css" crc="534164522" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4190599967" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3807442682" seo="true" mt="1537689617326" redirect="true"/>
+    <file name="index.html" crc="42338550" seo="true" mt="1537690412519" redirect="true"/>
   </folder>
-  <file name="index.html" crc="38212112" seo="true" mt="1537689548543" redirect="true"/>
+  <file name="index.html" crc="319353379" seo="true" mt="1537690516890" redirect="true"/>
 </manifest>
