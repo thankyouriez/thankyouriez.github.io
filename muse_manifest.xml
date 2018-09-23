@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537680209974">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537689638478">
   <folder name="css">
-    <file name="site_global.css" crc="3854697975"/>
-    <file name="index.css" crc="443716700" ref="index"/>
+    <file name="site_global.css" crc="4079240678"/>
+    <file name="index.css" crc="416420306" ref="index"/>
     <file name="iefonts_index.css" crc="66924647" ref="index"/>
   </folder>
   <folder name="assets">
@@ -42,7 +42,7 @@
     <file name="form-u5539.php" crc="437308739" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ezgifcom-resize-3.gif" crc="322655999" ref="phone>index"/>
+    <file name="ezgifcom-resize-3.gif" crc="322655999" ref="phone>index:index"/>
     <file name="tablet_menu_01.png" crc="4012056727" ref="phone>index:tablet>index"/>
     <file name="tablet_menu_02.png" crc="315670871" ref="phone>index:tablet>index"/>
     <file name="u2355-4.png" crc="3813966114" ref="phone>index"/>
@@ -54,30 +54,29 @@
     <file name="stripe_pattern.png" crc="4000199862" ref="phone>index:tablet>index:index"/>
     <file name="trigger_normal.png" crc="4021409638" ref="phone>index:tablet>index"/>
     <file name="trigger_rollover.png" crc="4232975380" ref="phone>index:tablet>index"/>
-    <file name="u2382-4.png" crc="516396401" ref="phone>index"/>
-    <file name="u2381-5.png" crc="500173707" ref="phone>index"/>
-    <file name="banner.jpg" crc="4177569588" seo="true" ref="phone>index"/>
+    <file name="u2382-4.png" crc="136769839" ref="phone>index"/>
+    <file name="u2381-5.png" crc="516735749" ref="phone>index"/>
     <file name="u2390-4.png" crc="3927687786" ref="phone>index"/>
-    <file name="logic-pro-logo-u7059-fr.png" crc="4205982263" ref="phone>index"/>
+    <file name="flat,800x800,075,fu10-u7062-fr.jpg" crc="4013880656" ref="phone>index"/>
+    <file name="paramount-studio-a-dec-201656856-u7065-fr.jpg" crc="112888352" ref="phone>index"/>
     <file name="u7071-4.png" crc="3872696938" ref="phone>index"/>
-    <file name="u7086-4.png" crc="209451042" ref="phone>index"/>
-    <file name="avid-logo_1_3-u7056-fr.jpg" crc="403174217" ref="phone>index"/>
+    <file name="u7074-4.png" crc="4282984852" ref="phone>index"/>
+    <file name="u7077-4.png" crc="76246018" ref="phone>index"/>
     <file name="u7068-4.png" crc="125964883" ref="phone>index"/>
     <file name="u7080-5.png" crc="300699276" ref="phone>index"/>
-    <file name="flat,800x800,075,fu10-u7062-fr.jpg" crc="4013880656" ref="phone>index"/>
-    <file name="u7074-4.png" crc="4282984852" ref="phone>index"/>
     <file name="u7083-4.png" crc="398854555" ref="phone>index"/>
-    <file name="paramount-studio-a-dec-201656856-u7065-fr.jpg" crc="112888352" ref="phone>index"/>
-    <file name="u7077-4.png" crc="76246018" ref="phone>index"/>
+    <file name="u7086-4.png" crc="209451042" ref="phone>index"/>
     <file name="u7089-4.png" crc="4282585987" ref="phone>index"/>
+    <file name="avid-logo_1_3-u7056-fr.jpg" crc="403174217" ref="phone>index"/>
+    <file name="logic-pro-logo-u7059-fr.png" crc="4205982263" ref="phone>index"/>
     <file name="ezgifcom-resize-11.gif" crc="211495120" ref="phone>index"/>
     <file name="stripe_pattern-u3072-fr.png" crc="4053785081" ref="phone>index"/>
-    <file name="u7177-4.png" crc="165603148" ref="phone>index"/>
+    <file name="u7177-4.png" crc="4018652169" ref="phone>index"/>
     <file name="u7174-4.png" crc="3936580145" ref="phone>index"/>
     <file name="logo.png" crc="330588655" ref="phone>index:tablet>index:index"/>
     <file name="ezgifcom-resize-4.gif" crc="3884510416" ref="phone>index"/>
     <file name="u2411-4.png" crc="4236470330" ref="phone>index"/>
-    <file name="u7666-4.png" crc="526921472" ref="phone>index"/>
+    <file name="u7666-4.png" crc="423176605" ref="phone>index"/>
     <file name="u2479-4.png" crc="3968207748" ref="phone>index"/>
     <file name="u7669-6.png" crc="371973246" ref="phone>index"/>
     <file name="u7674-6.png" crc="4011972599" ref="phone>index"/>
@@ -94,10 +93,12 @@
     <file name="u7803-8.png" crc="10303332" ref="phone>index"/>
     <file name="a2204885842_16.jpg" crc="230607616" seo="true" ref="phone>index:index"/>
     <file name="u7827-4.png" crc="330126502" ref="phone>index"/>
-    <file name="u7911-4.png" crc="4040003868" ref="phone>index"/>
-    <file name="u7912-4.png" crc="152452682" ref="phone>index"/>
-    <file name="home_background-u2532-fr.jpg" crc="3760372038" ref="phone>index"/>
-    <file name="u2626-4.png" crc="323316328" ref="phone>index"/>
+    <file name="u7911-4.png" crc="4246216470" ref="phone>index"/>
+    <file name="u7912-4.png" crc="3990603745" ref="phone>index"/>
+    <file name="back pic.jpg" crc="174107963" ref="phone>index"/>
+    <file name="if_twitterbird_278450.png" crc="3997656951" seo="true" ref="phone>index"/>
+    <file name="ezgifcom-resize-5.gif" crc="3954610509" ref="phone>index"/>
+    <file name="u2626-4.png" crc="413591495" ref="phone>index"/>
     <file name="u7933-4.png" crc="3762639574" ref="phone>index"/>
     <file name="u7934-4.png" crc="3760315544" ref="phone>index"/>
     <file name="789-crop-u7979.png" crc="297560005" ref="phone>index"/>
@@ -125,11 +126,11 @@
     <file name="222117x75.jpg" crc="3854265718" seo="true" ref="phone>index"/>
     <file name="2117x75.jpg" crc="111944481" seo="true" ref="phone>index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
-    <file name="u7917-4.png" crc="20916768" ref="phone>index"/>
+    <file name="u7917-4.png" crc="4043401613" ref="phone>index"/>
     <file name="u7918-6.png" crc="4241319519" ref="phone>index"/>
     <file name="sitenew313x223.jpg" crc="3875819998" seo="true" ref="phone>index"/>
     <file name="giphy-2.gif" crc="3896099984" ref="phone>index"/>
-    <file name="u7830-4.png" crc="208788106" ref="phone>index"/>
+    <file name="u7830-4.png" crc="244151522" ref="phone>index"/>
     <file name="u7838.png" crc="265377187" ref="phone>index"/>
     <file name="u7838-r.png" crc="3971456517" ref="phone>index"/>
     <file name="u7838-m.png" crc="4000801535" ref="phone>index"/>
@@ -137,15 +138,13 @@
     <file name="u2851-4.png" crc="193709504" ref="phone>index"/>
     <file name="icon_fb_01.png" crc="281675601" ref="phone>index:tablet>index:index"/>
     <file name="icon_fb_02.png" crc="3908246663" ref="phone>index:tablet>index:index"/>
-    <file name="icon_g_01.png" crc="407771021" ref="phone>index:tablet>index"/>
-    <file name="icon_g_02.png" crc="3992621336" ref="phone>index:tablet>index"/>
-    <file name="icon_tw_01.png" crc="4052788479" ref="phone>index:tablet>index:index"/>
-    <file name="icon_tw_02.png" crc="414328691" ref="phone>index:tablet>index:index"/>
     <file name="icon_i_01.png" crc="528723403" ref="phone>index:tablet>index:index"/>
     <file name="icon_i_02.png" crc="3932289192" ref="phone>index:tablet>index:index"/>
+    <file name="icon_tw_01.png" crc="4052788479" ref="phone>index:tablet>index:index"/>
+    <file name="icon_tw_02.png" crc="414328691" ref="phone>index:tablet>index:index"/>
     <file name="icon_s_01.png" crc="531649251" ref="phone>index:tablet>index:index"/>
     <file name="icon_s_02.png" crc="305102810" ref="phone>index:tablet>index:index"/>
-    <file name="u7892-4.png" crc="67029764" ref="phone>index"/>
+    <file name="u7892-4.png" crc="3811274652" ref="phone>index"/>
     <file name="a-master-favicon.ico" crc="4228618289" ref="tablet>index"/>
     <file name="home_background.jpg" crc="408795766" ref="tablet>index"/>
     <file name="about_background.jpg" crc="4253942929" ref="tablet>index"/>
@@ -159,14 +158,16 @@
     <file name="big_photo_placeholder.jpg" crc="286085375" ref="tablet>index"/>
     <file name="close_button-u1971-r-fr.png" crc="4144172247" ref="tablet>index"/>
     <file name="big_photo_placeholder-u2008-r-fr.png" crc="4021942928" ref="tablet>index"/>
+    <file name="icon_g_01.png" crc="407771021" ref="tablet>index"/>
+    <file name="icon_g_02.png" crc="3992621336" ref="tablet>index"/>
     <file name="icon_mx_01.png" crc="331746781" ref="tablet>index"/>
     <file name="icon_mx_02.png" crc="4053075016" ref="tablet>index"/>
     <file name="home-favicon.ico" crc="4228618289" ref="index"/>
-    <file name="menu_normal.png" crc="4047380175" ref="index"/>
     <file name="u93-4.png" crc="3967531834" ref="index"/>
-    <file name="u96-4.png" crc="4062612706" ref="index"/>
+    <file name="u96-4.png" crc="3787373167" ref="index"/>
     <file name="u156_states.png" crc="3858978685" ref="index"/>
     <file name="u156_states-r.png" crc="433973937" ref="index"/>
+    <file name="menu_normal.png" crc="4047380175" ref="index"/>
     <file name="scroll_down.png" crc="378183208" ref="index"/>
     <file name="baky.jpg" crc="4277736592" ref="index"/>
     <file name="riez122logo-u4947.png" crc="3865538471" ref="index"/>
@@ -243,17 +244,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="343494766" ref="tablet>index"/>
+      <file name="index.css" crc="198468073" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="416138061" seo="true" mt="1537593883346" redirect="true"/>
+    <file name="index.html" crc="63821896" seo="true" mt="1537593883346" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4146396026" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="372431817" ref="phone>index"/>
+      <file name="index.css" crc="4141264718" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4149640597" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4009526859" seo="true" mt="1537680126612" redirect="true"/>
+    <file name="index.html" crc="3807442682" seo="true" mt="1537689617326" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4024422712" seo="true" mt="1537678279971" redirect="true"/>
+  <file name="index.html" crc="38212112" seo="true" mt="1537689548543" redirect="true"/>
 </manifest>

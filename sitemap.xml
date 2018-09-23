@@ -9,12 +9,6 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.thankyouriez.com/tablet/index.html"/>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/a2809816735_16.jpg</loc>
-    <lastmod>2018-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.thankyouriez.com/images/pelicano%2095--.jpg</loc>
     <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,6 +40,12 @@
   </url>
   <url>
     <loc>http://www.thankyouriez.com/images/a2204885842_16.jpg</loc>
+    <lastmod>2018-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.thankyouriez.com/images/if_twitterbird_278450.png</loc>
     <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -141,7 +141,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.thankyouriez.com/images/banner.jpg</loc>
+    <loc>http://www.thankyouriez.com/images/a2809816735_16.jpg</loc>
     <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
