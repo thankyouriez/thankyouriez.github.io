@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537690573376">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537690995976">
   <folder name="css">
     <file name="site_global.css" crc="4079240678"/>
-    <file name="index.css" crc="4022844882" ref="index"/>
+    <file name="index.css" crc="3807518070" ref="index"/>
     <file name="iefonts_index.css" crc="66924647" ref="index"/>
   </folder>
   <folder name="assets">
@@ -244,17 +244,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="198240426" ref="tablet>index"/>
+      <file name="index.css" crc="394670957" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3466275" seo="true" mt="1537593883346" redirect="true"/>
+    <file name="index.html" crc="346994259" seo="true" mt="1537593883346" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="534164522" ref="phone>index"/>
+      <file name="index.css" crc="527488779" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4190599967" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="42338550" seo="true" mt="1537690412519" redirect="true"/>
+    <file name="index.html" crc="3806771375" seo="true" mt="1537690970578" redirect="true"/>
   </folder>
-  <file name="index.html" crc="319353379" seo="true" mt="1537690516890" redirect="true"/>
+  <file name="index.html" crc="3975507492" seo="true" mt="1537690960172" redirect="true"/>
 </manifest>
