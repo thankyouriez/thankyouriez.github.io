@@ -19,16 +19,16 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://thankyouriez.com/phone/index.html"/>
-  <link media="only screen and (max-width: 960px)" rel="alternate" href="http://thankyouriez.com/tablet/index.html"/>
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.thankyouriez.com/phone/index.html"/>
+  <link media="only screen and (max-width: 960px)" rel="alternate" href="http://www.thankyouriez.com/tablet/index.html"/>
   <link rel="shortcut icon" href="images/home-favicon.ico?crc=4228618289"/>
   <title>Home</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4079240678"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=394019043" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3854697975"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=443716700" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=4200597603"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=66924647"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -36,7 +36,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/bebas-neue:n4:all;ubuntu:n3:all;montserrat:n4:all;lato:n4,i4:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/ubuntu:n3:all;bebas-neue:n4:all;montserrat:n4:all;lato:n4,i4:all.js" type="text/javascript">\x3C/script>');
 </script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -235,7 +235,7 @@ function init(){if(!document.body)return;var e=document.body,t=document.document
       </div>
      </div>
     </div>
-    <a class="nonblock nontext anim_swing rounded-corners clearfix colelem" id="u156-4" href="index.html#about"><!-- content --><p id="u156-2">START HERE</p></a>
+    <a class="nonblock nontext anim_swing colelem" id="u156" href="index.html#about"><!-- state-based BG images --><img id="u156_states" alt="START HERE" src="images/blank.gif?crc=4208392903"/></a>
     <div class="clearfix colelem" id="u190"><!-- column -->
      <div class="colelem" id="u175"><!-- simple frame --></div>
      <div class="clearfix colelem" id="u189-4"><!-- content -->
@@ -265,7 +265,7 @@ function init(){if(!document.body)return;var e=document.body,t=document.document
           <img class="colelem" id="u5000-4" alt="MUSIC PRODUCTION" width="213" height="32" src="images/u5000-4.png?crc=60888665"/><!-- rasterized frame -->
           <img class="colelem" id="u4999-4" alt="Skilled in Pro Tools, Logic Pro X, FL Studio and Adobe Audition." width="214" height="118" src="images/u4999-4.png?crc=3991363707"/><!-- rasterized frame -->
           <img class="colelem" id="u5005-4" alt="MUSIC ENGINEERING" width="213" height="32" src="images/u5005-4.png?crc=4058530868"/><!-- rasterized frame -->
-          <img class="colelem" id="u5006-5" alt="Skilled in Pro Tools, Logic Pro X, and Adobe Audition." width="214" height="118" src="images/u5006-5.png?crc=416248003"/><!-- rasterized frame -->
+          <img class="colelem" id="u5006-5" alt="Skilled in Pro Tools, Logic Pro X, and Adobe Audition." width="214" height="118" src="images/u5006-5.png?crc=3991770615"/><!-- rasterized frame -->
           <img class="colelem" id="u5002-4" alt="GRAPHIC DESIGN" width="213" height="32" src="images/u5002-4.png?crc=3828931541"/><!-- rasterized frame -->
           <img class="colelem" id="u5003-4" alt="Skilled in Adobe Photoshop, Adobe After Effects, Adobe Muse CC, Adobe Illustrator &amp; Adobe Lightroom." width="214" height="118" src="images/u5003-4.png?crc=3950256645"/><!-- rasterized frame -->
           <img class="colelem" id="u5009-4" alt="SONGWRITING" width="213" height="32" src="images/u5009-4.png?crc=4284923179"/><!-- rasterized frame -->
@@ -575,6 +575,7 @@ function init(){if(!document.body)return;var e=document.body,t=document.document
    </div>
   </div>
   <div class="preload_images">
+   <img class="preload" src="images/u156_states-r.png?crc=433973937" alt=""/>
    <img class="preload" src="images/u5554-r.png?crc=4250216931" alt=""/>
    <img class="preload" src="images/u5554-m.png?crc=4183876972" alt=""/>
    <img class="preload" src="images/u5554-fs.png?crc=3958801006" alt=""/>
@@ -608,10 +609,10 @@ Muse.Utils.initWidget('#pamphletu1521', ['#bp_infinity'], function(elem) { retur
 Muse.Utils.initWidget('#pamphletu1561', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:false,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu1561 */
 Muse.Utils.initWidget('#slideshowu5122', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:2500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu5122 */
 Muse.Utils.initWidget('#widgetu5539', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu5539 */
-$('#u127').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0.6],"in":[0,Infinity]}]);/* scroll effect */
-$('#u390').registerOpacityScrollEffect([{"fade":100,"in":[-Infinity,2756.9],"opacity":0},{"opacity":100,"in":[2756.9,2756.9]},{"fade":50,"in":[2756.9,Infinity],"opacity":100}]);/* scroll effect */
-$('#u395').registerOpacityScrollEffect([{"fade":100,"in":[-Infinity,2806.9],"opacity":0},{"opacity":100,"in":[2806.9,2806.9]},{"fade":50,"in":[2806.9,Infinity],"opacity":100}]);/* scroll effect */
-$('#u399').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,2856.9],"opacity":0},{"opacity":100,"in":[2856.9,2856.9]},{"fade":50,"in":[2856.9,Infinity],"opacity":100}]);/* scroll effect */
+$('#u127').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0]},{"in":[0,Infinity],"speed":[0,0.6]}]);/* scroll effect */
+$('#u390').registerOpacityScrollEffect([{"fade":100,"in":[-Infinity,2756.9],"opacity":0},{"in":[2756.9,2756.9],"opacity":100},{"fade":50,"in":[2756.9,Infinity],"opacity":100}]);/* scroll effect */
+$('#u395').registerOpacityScrollEffect([{"fade":100,"in":[-Infinity,2806.9],"opacity":0},{"in":[2806.9,2806.9],"opacity":100},{"fade":50,"in":[2806.9,Infinity],"opacity":100}]);/* scroll effect */
+$('#u399').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,2856.9],"opacity":0},{"in":[2856.9,2856.9],"opacity":100},{"fade":50,"in":[2856.9,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
