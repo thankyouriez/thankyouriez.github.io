@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537847452003">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.thankyouriez.com" resolutions="1x" timestamp="1537848444438">
   <folder name="css">
-    <file name="site_global.css" crc="3854697975"/>
-    <file name="index.css" crc="4022844882" ref="index"/>
+    <file name="site_global.css" crc="4079240678"/>
+    <file name="index.css" crc="152804622" ref="index"/>
     <file name="iefonts_index.css" crc="66924647" ref="index"/>
   </folder>
   <folder name="assets">
@@ -76,7 +76,7 @@
     <file name="ezgifcom-resize-4.gif" crc="3884510416" ref="phone>index"/>
     <file name="u2411-4.png" crc="231256206" ref="phone>index"/>
     <file name="u7666-4.png" crc="423176605" ref="phone>index"/>
-    <file name="u2479-4.png" crc="280593097" ref="phone>index"/>
+    <file name="u2479-4.png" crc="229631165" ref="phone>index"/>
     <file name="u7669-6.png" crc="371973246" ref="phone>index"/>
     <file name="u7674-6.png" crc="4011972599" ref="phone>index"/>
     <file name="a2809816735_16.jpg" crc="53928037" seo="true" ref="phone>index:index"/>
@@ -245,17 +245,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="52960362" ref="tablet>index"/>
+      <file name="index.css" crc="3759548136" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4014984195" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="164797600" seo="true" mt="1537593883346" redirect="true"/>
+    <file name="index.html" crc="4222663516" seo="true" mt="1537593883346" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4163672839" ref="phone>index"/>
+      <file name="index.css" crc="286039338" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4190599967" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4108849434" seo="true" mt="1537847396795" redirect="true"/>
+    <file name="index.html" crc="172957474" seo="true" mt="1537848394078" redirect="true"/>
   </folder>
-  <file name="index.html" crc="419803755" seo="true" mt="1537846130077" redirect="true"/>
+  <file name="index.html" crc="533297512" seo="true" mt="1537848360523" redirect="true"/>
 </manifest>
